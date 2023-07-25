@@ -43,27 +43,18 @@ The test dataset can be downloaded from [here](https://pan.baidu.com/s/1VuGhywVt
 ## Statement
 
 - Please cite our paper if our work is useful to your research.
+  
+  ```
+    @article{li2022spectral,
+    title={Spectral index-driven FCN model training for water extraction from multispectral imagery},
+    author={Li, Zhenshi and Zhang, Xueliang and Xiao, Pengfeng},
+    journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+    volume={192},
+    pages={344--360},
+    year={2022},
+    publisher={Elsevier}
+    }
+  ```
 
-  ```
-
-    @article{li2022spectral,
-
-    title={Spectral index-driven FCN model training for water extraction from multispectral imagery},
-
-    author={Li, Zhenshi and Zhang, Xueliang and Xiao, Pengfeng},
-
-    journal={ISPRS Journal of Photogrammetry and Remote Sensing},
-
-    volume={192},
-
-    pages={344--360},
-
-    year={2022},
-
-    publisher={Elsevier}
-
-    }
-
-  ```
 
 - Any questions please contact Lzhenshi@outlook.com.
