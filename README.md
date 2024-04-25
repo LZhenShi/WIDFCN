@@ -12,6 +12,8 @@ This is the official repository for the paper [“Spectral index-driven FCN mode
 
 Employ *infer_water* with your weight path, data root and output root.
 
+weights: "your_path/WIDFCN-model.pth.tar" 
+
 ## Trained model
 
 The trained model can be downloaded from [here](https://pan.baidu.com/s/12k8OAa4KFBzlcVfZBbrPdQ) (Code:o006)
